@@ -5,30 +5,30 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/> 
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> 
 </div>
-<h1 align="center">Hi there It's me Pintu KUMAR Sharma👋</h1>
+<h1 align="center">Hi there It's me Vishal Kumar Singh👋</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 
 
 
 - 🔭 I’m currently working on web application projects using HTML,CSS and JS and other side using JSP and Firebase.
-- 🌱 I’m currently learning  **DSA,Frontend,Backend,React**.
-- 👯 I’m looking to collaborate on Backend and React project.
+- 🌱 I’m currently learning  **DSA,Frontend,React**.
+- 👯 I’m looking to collaborate on Frontend and React project.
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
 - 🔭 I’m currently working on ** Tracker App**
 
 - 👯 I’m looking to collaborate on **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jm251](https://github.com/pintu544)
-- 👨‍💻 All of my projects are available at [https://github.com/pintu544](https://github.com/pintu544)
+- 👨‍💻 All of my projects are available at [https://github.com/vis8340)
+- 👨‍💻 All of my projects are available at [https://github.com/vis8340]
 
-- 📝 I regulary write articles on [jm251.github.io](https:jm251.github.io)
-- 📝 I regulary write articles on [pintu544.github.io](https:jm251.github.io)
+  
+  
 
-- 💬 Ask me about **Java,Web Developement,OS,DBMS,DS&Algo,System Design,React.
+- 💬 Ask me about **c/c++,Web Developement,sql,tailwind,React.
 
-- 📫 How to reach me **jm0046476@gmail.com**
-- 📫 How to reach me **pksharmagh4@gmail.com**
+- 📫 How to reach me **vishalsingh1998gaya@gmail.com**
+
 
 - ⚡ Fun fact **Learn and share knowledge among Students**
 
